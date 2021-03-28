@@ -41,3 +41,7 @@ main {
     flex-direction: column;
     justify-content: space-around;
 }
+
+.question {
+    font-size: 25px;
+}
